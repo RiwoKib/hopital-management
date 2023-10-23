@@ -1112,7 +1112,6 @@ body{
 	border: 1px solid #fff;
 	color: #fff;
 	background: transparent;
-	color: #fff !important;
 }
 .call-action .content .second:before{
 	background:#fff;
@@ -1120,10 +1119,10 @@ body{
 .call-action .content .second:hover{
 	color:#1A76D1;
 	border-color:transparent;
-	background:#fff;
+	background: #fff;
 }
 .call-action .content .second i{
-	margin-left:10px;
+	margin-left: 10px;
 }
 /*===============================
 	Start Call to action CSS
